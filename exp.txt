@@ -1,2 +1,3 @@
+GIT PULL 
 
 i m trying to clarify stash concept
